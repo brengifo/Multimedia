@@ -1,0 +1,178 @@
+﻿home.swf Movie Report
+----------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         561768         561768    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             92             0                 94249
+
+Symbol                        Shape Bytes    Text Bytes    ActionScript Bytes
+--------------------------    -----------    ----------    ------------------
+Component_avatar                       32             0                     0
+<Group>_30                            142             0                     0
+<Group>_30                            142             0                     0
+<Group>_31                             70             0                     0
+<Group>_32                             70             0                     0
+<Group>_33                             70             0                     0
+mcAni                                   0             0                     0
+mcAvatar                               30             0                     0
+mcMujer                              1220             0                     0
+mcAvatarBg                              0             0                     0
+mcAvatarBehavior                        0            50                     0
+mcAvatarBehaviorCaminar                 0             0                     0
+mcAvatarBehaviorFin                     0             0                     0
+mcAvatarBehaviorFin1                    0             0                     0
+mcAvatarBehaviorFinalStar               0             0                     0
+mcAvatarBehaviorStars                   0             0                     0
+mcAvatarFicha                           0             0                     0
+mcAvatarHombreAI                     1009             0                     0
+mcAvatarFinal                        2379             0                     0
+mcBtn                                   0            61                     0
+mcCaminarani                            0             0                     0
+mcDragger                               0             0                     0
+mcFicha                                 0            59                     0
+mcInfo                                  0             0                     0
+mcInfoComoJugar                         0             0                     0
+mcPuntaje                               0           128                     0
+mcInfoComoJugarBg                       0             0                     0
+mcLanzaMoneda                           0             0                     0
+mcMoneda                                0             0                     0
+mcMask                                 29             0                     0
+mcMonedaAnimacion1                      0             0                     0
+mcMonedaAnimacion2                      0             0                     0
+mcMonedaAnimación                      0             0                     0
+mcNeutron                               0             0                     0
+mcNombre                                0            58                     0
+mcPuntajeBg                             0             0                     0
+mcTablero                               0             0                     0
+mcTarget                                0            59                     0
+mcTableroBackground                     0             0                     0
+mcTableroBackground_tierra              0             0                     0
+mcTableroItem                          38             0                     0
+UILoader                                0             0                     0
+mcTargetPuntos                          0             0                     0
+mcTargetMask                           57             0                     0
+mcTargetIcon                            0             0                     0
+mcTargetBg                              0             0                     0
+mcTargetPuntos2                         0             0                     0
+mcTargetPuntos1                         0             0                     0
+mcTxt                                   0            58                     0
+mcUsuario                               0             0                     0
+fl.core.ComponentShim                   0             0                     0
+fl.controls.Button                      0             0                     0
+
+Font Name         Bytes         Characters
+--------------    ----------    ----------
+Omnes-Regular          35376     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ÁÉÍÑÓÚáéíñóúˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Omnes-Semibold         54573     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥§¨©ª«¬­®¯°±´µ¶·¸º»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›⁄€™Ω
+Omnes-Bold             21182    !Failn¡
+
+ActionScript Bytes    Location
+------------------    --------
+             94249    Scene 1:Frame 1
+
+Bitmap                                 Compressed    Original      Compression
+-----------------------------------    ----------    ----------    -----------
+info_avatar_bg.png                           2715         17956    JPEG Quality=100
+info_avatar_hombre.png                       4889         22000    JPEG Quality=100
+info_puntaje_bg2.png                         4435         25200    JPEG Quality=100
+info_puntaje_bg.png                          2148         10608    JPEG Quality=100
+btn_lanzarmoneda.png                         5171         35532    JPEG Quality=100
+izquierda_moneda_fondo_00000.jpg             7467         99200    JPEG Quality=90
+izquierda_moneda_fondo_00001.jpg              989         99200    JPEG Quality=50
+izquierda_moneda_fondo_00002.jpg              941         99200    JPEG Quality=50
+izquierda_moneda_fondo_00003.jpg             1505         99200    JPEG Quality=50
+izquierda_moneda_fondo_00004.jpg              976         99200    JPEG Quality=50
+izquierda_moneda_fondo_00005.jpg             1385         99200    JPEG Quality=50
+izquierda_moneda_fondo_00006.jpg             1594         99200    JPEG Quality=50
+izquierda_moneda_fondo_00007.jpg             1250         99200    JPEG Quality=50
+izquierda_moneda_fondo_00008.jpg             1004         99200    JPEG Quality=50
+izquierda_moneda_fondo_00009.jpg             1430         99200    JPEG Quality=50
+izquierda_moneda_fondo_00010.jpg             1733         99200    JPEG Quality=50
+izquierda_moneda_fondo_00011.jpg             1652         99200    JPEG Quality=50
+izquierda_moneda_fondo_00012.jpg             1327         99200    JPEG Quality=50
+izquierda_moneda_fondo_00013.jpg              984         99200    JPEG Quality=50
+izquierda_moneda_fondo_00014.jpg             1280         99200    JPEG Quality=50
+izquierda_moneda_fondo_00015.jpg             1556         99200    JPEG Quality=50
+izquierda_moneda_fondo_00016.jpg             1715         99200    JPEG Quality=50
+izquierda_moneda_fondo_00017.jpg             1701         99200    JPEG Quality=50
+izquierda_moneda_fondo_00018.jpg             1627         99200    JPEG Quality=50
+izquierda_moneda_fondo_00019.jpg             1466         99200    JPEG Quality=50
+izquierda_moneda_fondo_00020.jpg             1229         99200    JPEG Quality=50
+izquierda_moneda_fondo_00021.jpg              975         99200    JPEG Quality=50
+izquierda_moneda_fondo_00022.jpg             1216         99200    JPEG Quality=50
+izquierda_moneda_fondo_00023.jpg             1416         99200    JPEG Quality=50
+izquierda_moneda_fondo_00024.jpg             1640         99200    JPEG Quality=50
+izquierda_moneda_fondo_00025.jpg             1756         99200    JPEG Quality=50
+izquierda_moneda_fondo_00026.jpg             1818         99200    JPEG Quality=50
+izquierda_moneda_fondo_00027.jpg             7256         99200    JPEG Quality=90
+izquierda_moneda_fondo_00028.jpg             1835         99200    JPEG Quality=50
+izquierda_moneda_fondo_00029.jpg             1750         99200    JPEG Quality=50
+izquierda_moneda_fondo_00030.jpg             1629         99200    JPEG Quality=50
+izquierda_moneda_fondo_00031.jpg             1470         99200    JPEG Quality=50
+izquierda_moneda_fondo_00032.jpg             1324         99200    JPEG Quality=50
+izquierda_moneda_fondo_00033.jpg             1120         99200    JPEG Quality=50
+izquierda_moneda_fondo_00034.jpg             1015         99200    JPEG Quality=50
+izquierda_moneda_fondo_00035.jpg             1162         99200    JPEG Quality=50
+izquierda_moneda_fondo_00036.jpg             1360         99200    JPEG Quality=50
+izquierda_moneda_fondo_00037.jpg             1489         99200    JPEG Quality=50
+izquierda_moneda_fondo_00038.jpg             1592         99200    JPEG Quality=50
+izquierda_moneda_fondo_00039.jpg             1666         99200    JPEG Quality=50
+izquierda_moneda_fondo_00040.jpg             1711         99200    JPEG Quality=50
+izquierda_moneda_fondo_00041.jpg             1782         99200    JPEG Quality=50
+izquierda_moneda_fondo_00042.jpg             1807         99200    JPEG Quality=50
+izquierda_moneda_fondo_00043.jpg             1821         99200    JPEG Quality=50
+izquierda_moneda_fondo_00044.jpg             1808         99200    JPEG Quality=50
+izquierda_moneda_fondo_00045.jpg             1784         99200    JPEG Quality=50
+izquierda_moneda_fondo_00046.jpg             1768         99200    JPEG Quality=50
+izquierda_moneda_fondo_00047.jpg             1771         99200    JPEG Quality=50
+izquierda_moneda_fondo_00048.jpg             1774         99200    JPEG Quality=50
+izquierda_moneda_fondo_00049.jpg             1765         99200    JPEG Quality=50
+izquierda_moneda_fondo_00050.jpg             7305         99200    JPEG Quality=90
+tablero_ficha_avatar_sombra.png               826          7560    Lossless
+info_avatar_fin_star.png                     1358          3844    Lossless
+tablero_casillero_bg.png                     3860         21316    JPEG Quality=100
+neutron_00020.png                            6960         56120    JPEG Quality=80
+neutron_00021.png                            7223         56120    JPEG Quality=80
+neutron_00022.png                            7144         56120    JPEG Quality=80
+neutron_00023.png                            7361         56120    JPEG Quality=80
+neutron_00024.png                            7594         56120    JPEG Quality=80
+neutron_00025.png                            7702         56120    JPEG Quality=80
+neutron_00026.png                            7671         56120    JPEG Quality=80
+neutron_00027.png                            7350         56120    JPEG Quality=80
+neutron_00028.png                            7109         56120    JPEG Quality=80
+neutron_00029.png                            7111         56120    JPEG Quality=80
+neutron_00030.png                            6830         56120    JPEG Quality=80
+neutron_00031.png                            7094         56120    JPEG Quality=80
+neutron_00032.png                            7562         56120    JPEG Quality=80
+neutron_00033.png                            7791         56120    JPEG Quality=80
+neutron_00034.png                            7763         56120    JPEG Quality=80
+tablero_casillero_tipo_cliente.png           2834         17420    Lossless
+tablero_casillero_tipo_juego.png             1656         19044    JPEG Quality=80
+tablero_casillero_tipo_sorpresa.png          2391         15860    Lossless
+tablero_casillero_punto_small.png             434          1224    Lossless
+tablero_casillero_punto_big.png               579          2024    Lossless
+pasos01_icon01.png                           4476         71040    Lossless
+tablero_final.png                            9704        131044    JPEG Quality=80
+pasos01_icon02.png                            459         13224    Lossless
+pasos01_icon03.png                            427          3312    Lossless
+pasos01_icon07.png                           5728         70000    Lossless
+pasos01_icon06.png                           1081         23220    JPEG Quality=80
+pasos01_icon05.png                           2379         40320    JPEG Quality=80
+pasos01_icon04.png                           5107         96728    JPEG Quality=80
+pasos02_icon04.png                           7214        115992    JPEG Quality=80
+pasos02_icon03.png                            760          7400    Lossless
+pasos04_icon01.png                           2631         39216    JPEG Quality=80
+pasos03_icon02.png                           3820        114708    JPEG Quality=80
+pasos03_icon01.png                           3073         25604    Lossless
+pasos02_icon02.png                           2479         67600    Lossless
+pasos02_icon05.png                          33537       1451880    JPEG Quality=85
+final-cambios_bg.jpg                         5610        356208    JPEG Quality=80
+playground_cuadro.jpg                       11053       1218192    JPEG Quality=80
+
+
+
+

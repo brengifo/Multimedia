@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="300" viewWidth="500" ATE:version="1.0.0" flm:version="1.0.0" d:using="" pd:backgroundColor="0" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008" xmlns:pd="http://ns.adobe.com/xfl/2008/pd">
+  <Library>
+    <Definition name="Graphic_shape_45" flm:originalName="Graphic/shape 45" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M2.8 -1.8Q7.9 2.95 7.65 6.2 6.05 7.65 3.15 7.65 -0.15 2.15 -1.95 3.25 -2.6 -1.05 2.8 -1.8">
+            <fill>
+              <SolidColor color="#55322E"/>
+            </fill>
+          </Path>
+          <Path data="M5.05 -2 9.25 3.45Q8.8 5.2 7.65 6.2 7.9 2.95 2.8 -1.8L5.05 -2">
+            <fill>
+              <SolidColor color="#482926"/>
+            </fill>
+          </Path>
+          <Path data="M9.25 3.45 5.05 -2M-1.95 3.25Q-0.15 2.15 3.15 7.65">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#2D1817"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_43" flm:originalName="Graphic/shape 43" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M10.3 5.85 10.05 6.05 9.25 6.2 8.65 5.7Q8.45 5.4 8.6 5 8.6 4.75 8.75 4.6 10.3 4.35 10.3 5.85M0.85 1.75Q3.35 2.35 6.4 4.2L6.4 3.95 6.45 3.9 6.65 3.6Q8 3.5 8.1 4.75L8 4.85 7.8 4.95 7.65 5.05 7.05 5 6.5 4.55 6.4 4.2 6.5 4.55 7.05 5 7.65 5.05Q9.45
+ 6.6 9.4 9.4 8.25 10.65 6.55 11.5 8.25 10.65 9.4 9.4 10.55 10.05 9.4 11.85 7.55 12.95 6.55 11.5L1.5 7.55Q-0.85 5.7 0.5 2.5L0.85 1.75">
+            <fill>
+              <SolidColor color="#55322E"/>
+            </fill>
+          </Path>
+          <Path data="M8.75 4.6Q8.6 4.75 8.6 5 8.45 5.4 8.65 5.7L9.25 6.2 10.05 6.05 10.3 5.85 10.5 5.45 10.4 4.7Q10.2 4.35 9.8 4.25L9.05 4.3 8.75 4.6 9.05 4.3 9.8 4.25Q10.2 4.35 10.4 4.7L10.5 5.45 10.3 5.85Q10.3 4.35 8.75 4.6M6.4 4.2Q3.35 2.35 0.85 1.75 2 -0.65
+ 3.75 0.2L11.5 4Q13.7 4.55 13.15 6.25L12.7 8Q12.3 9.65 10 11.45L9.4 11.85Q10.55 10.05 9.4 9.4 9.45 6.6 7.65 5.05L7.8 4.95 8 4.85 8.1 4.75Q8 3.5 6.65 3.6L6.8 3.45 6.75 3.4 6.9 3.3 7.6 3.15 8.15 3.55 8.25 3.8 8.1 3.85Q8.3 4.1 8.15 4.35L8.25 4.45
+ 8.1 4.75 8.25 4.45 8.25 4.35 8.25 3.8 8.15 3.55 7.6 3.15 6.9 3.3 6.75 3.4 6.4 3.8 6.4 3.95 6.4 4.2M9.4 9.4Q11.2 7.3 11.5 4 11.2 7.3 9.4 9.4">
+            <fill>
+              <SolidColor color="#482926"/>
+            </fill>
+          </Path>
+          <Path data="M0.85 1.75Q2 -0.65 3.75 0.2L11.5 4Q13.7 4.55 13.15 6.25L12.7 8Q12.3 9.65 10 11.45L9.4 11.85Q7.55 12.95 6.55 11.5L1.5 7.55Q-0.85 5.7 0.5 2.5L0.85 1.75M9.4 9.4Q8.25 10.65 6.55 11.5M9.4 9.4Q11.2 7.3 11.5 4">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#2D1817"/>
+            </stroke>
+          </Path>
+          <Path data="M10.3 5.85 10.5 5.45 10.4 4.7Q10.2 4.35 9.8 4.25L9.05 4.3 8.75 4.6M8.1 4.75 8.25 4.45M8.25 3.8 8.15 3.55 7.6 3.15 6.9 3.3 6.75 3.4M6.4 3.95 6.4 3.8 6.75 3.4M6.4 4.2 6.5 4.55 7.05 5 7.65 5.05 7.8 4.95 8 4.85 8.1 4.75M6.4 4.2 6.4 3.95M8.25 3.8
+ 8.25 4.35 8.25 4.45M10.3 5.85 10.05 6.05 9.25 6.2 8.65 5.7Q8.45 5.4 8.6 5 8.6 4.75 8.75 4.6">
+            <stroke>
+              <SolidColorStroke weight="0.1" caps="none" joints="miter" color="#2D1817"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_56" flm:originalName="Graphic/shape 56" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M8.95 -0.4Q9.35 -0.1 9.45 -0.3 9.6 -0.55 9.35 -0.85L8.75 -1.4 8.05 -1.65 7.55 -1.45Q7.45 -1.2 7.65 -1L8.95 -0.4M11.9 -2.15Q12.45 0.95 11.2 2.05 11.9 5.2 9.65 4.7 9.25 6.5 6.3 4.6 2.1 5.8 0.1 3.05 0.3 1.8 1.25 0 3.7 -2.55 6.65 -3.4 9.55 -4.3
+ 11.4 -2.65L11.9 -2.15M8.35 1.6 7.65 1.05 6.8 0.75 6.25 0.9Q6.15 1.15 6.45 1.35L8.05 2.15 8.5 2.2 8.35 1.6">
+            <fill>
+              <SolidColor color="#F0D0B0"/>
+            </fill>
+          </Path>
+          <Path data="M8.95 -0.4 7.65 -1Q7.45 -1.2 7.55 -1.45L8.05 -1.65 8.75 -1.4 9.35 -0.85Q9.6 -0.55 9.45 -0.3 9.35 -0.1 8.95 -0.4M11.9 -2.15Q13.2 -0.8 13 0.5 14.5 2.05 12.85 2.95 14 5.15 11.55 5.9 10.55 8.55 8.1 7.5 5.85 8.55 4.05 8 2.2 7.45 0.15 4.6 -0.1 4 0.1
+ 3.05 2.1 5.8 6.3 4.6 9.25 6.5 9.65 4.7 11.9 5.2 11.2 2.05 12.45 0.95 11.9 -2.15M8.35 1.6 8.5 2.2 8.05 2.15 6.45 1.35Q6.15 1.15 6.25 0.9L6.8 0.75 7.65 1.05 8.35 1.6">
+            <fill>
+              <SolidColor color="#E8B686"/>
+            </fill>
+          </Path>
+          <Path data="M11.9 -2.15 11.4 -2.65Q9.55 -4.3 6.65 -3.4 3.7 -2.55 1.25 0 0.3 1.8 0.1 3.05M11.9 -2.15Q13.2 -0.8 13 0.5 14.5 2.05 12.85 2.95 14 5.15 11.55 5.9 10.55 8.55 8.1 7.5 5.85 8.55 4.05 8 2.2 7.45 0.15 4.6 -0.1 4 0.1 3.05">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_57" flm:originalName="Graphic/shape 57" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M3.95 -0.6Q3.7 -0.3 4.3 -0.4L5.5 -0.45Q5.75 -0.45 6 -0.7 6.2 -0.95 6 -1.05L5.6 -1.3 4.8 -1.15 3.95 -0.6M13.4 -2.55 10.05 -2.8 7.55 -2.3 10.05 -2.8 13.4 -2.55M7.25 -0.8 9.8 -1.15 12.3 -0.55 9.8 -1.15 7.25 -0.8M12.3 -0.55Q14.25 0.2 13.8 0.95 13.15
+ 2 10.1 1.35L8.9 1.85 8.7 1.65 6.25 1.5 8.7 1.65 8.9 1.85 11.25 3.3Q11.3 4.85 8.15 2.75 5.8 2 3.55 3.75 1.1 5.55 0.2 2.6 0.5 1.5 1.25 0 3.7 -2.55 6.65 -3.4L13.05 -3.8Q14.05 -3.5 13.4 -2.55 14.85 -2.1 14.7 -1.55 14.55 -0.6 12.3 -0.55M3.3 0.95
+ 3.55 1.2 4.1 1.35 4.55 1.35 5.05 1.1Q5.25 0.85 5.05 0.75L4.65 0.5 3.9 0.6Q3.35 0.8 3.3 0.95">
+            <fill>
+              <SolidColor color="#F0D0B0"/>
+            </fill>
+          </Path>
+          <Path data="M3.95 -0.6 4.8 -1.15 5.6 -1.3 6 -1.05Q6.2 -0.95 6 -0.7 5.75 -0.45 5.5 -0.45L4.3 -0.4Q3.7 -0.3 3.95 -0.6M11.25 3.3 12.15 4.3Q11.85 6.5 7.6 3.95 5.3 4.25 5 4.65 3.9 5.75 3.4 7.65 2.9 9.65 1.8 9.25 0.7 8.85 0.15 4.6 -0.15 3.85 0.2 2.6 1.1 5.55
+ 3.55 3.75 5.8 2 8.15 2.75 11.3 4.85 11.25 3.3M3.3 0.95Q3.35 0.8 3.9 0.6L4.65 0.5 5.05 0.75Q5.25 0.85 5.05 1.1L4.55 1.35 4.1 1.35 3.55 1.2 3.3 0.95">
+            <fill>
+              <SolidColor color="#E8B686"/>
+            </fill>
+          </Path>
+          <Path data="M13.4 -2.55 10.05 -2.8 7.55 -2.3M7.25 -0.8 9.8 -1.15 12.3 -0.55Q14.55 -0.6 14.7 -1.55 14.85 -2.1 13.4 -2.55 14.05 -3.5 13.05 -3.8L6.65 -3.4Q3.7 -2.55 1.25 0 0.5 1.5 0.2 2.6 -0.15 3.85 0.15 4.6 0.7 8.85 1.8 9.25 2.9 9.65 3.4 7.65 3.9 5.75 5 4.65
+ 5.3 4.25 7.6 3.95 11.85 6.5 12.15 4.3L11.25 3.3 8.9 1.85 8.7 1.65 6.25 1.5M8.9 1.85 10.1 1.35Q13.15 2 13.8 0.95 14.25 0.2 12.3 -0.55">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_82" flm:originalName="Graphic/shape 82" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M8.1 -3.45 5.25 -3.65Q3.95 -4.15 3.25 -5.45 2.5 -6.75 3.45 -7.85 4.35 -8.95 6.3 -8.4L10.05 -7.45Q11.9 -6.95 10.8 -5.35 9.7 -3.8 8.1 -3.45">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+          <Path data="M8.1 -3.45 5.25 -3.65Q3.95 -4.15 3.25 -5.45 2.5 -6.75 3.45 -7.85 4.35 -8.95 6.3 -8.4L10.05 -7.45Q11.9 -6.95 10.8 -5.35 9.7 -3.8 8.1 -3.45">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_55" flm:originalName="Graphic/shape 55" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M6.4 -2.9Q5.55 -2.65 4.75 -3.15 4 -3.6 3.75 -4.5 3.5 -5.35 3.95 -6.15 4.45 -6.9 5.3 -7.15L6.95 -6.95Q7.75 -6.45 8 -5.6 8.25 -4.7 7.75 -3.95 7.3 -3.15 6.4 -2.9">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+          <Path data="M6.4 -2.9Q5.55 -2.65 4.75 -3.15 4 -3.6 3.75 -4.5 3.5 -5.35 3.95 -6.15 4.45 -6.9 5.3 -7.15L6.95 -6.95Q7.75 -6.45 8 -5.6 8.25 -4.7 7.75 -3.95 7.3 -3.15 6.4 -2.9">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_54" flm:originalName="Graphic/shape 54" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M7.15 -55.3Q10.9 -53.6 12.5 -49.25 14.8 -42.95 10.05 -42.15 -4.7 -45.7 -21.5 -39.05L-20.95 -41.9Q-18.15 -55.55 -10.05 -54.25 -1.6 -52.9 6.2 -55.1L7.15 -55.3M-24 -31.85Q-8.5 -39.8 8.1 -36.3 11.65 -35.6 15.25 -34.3 24.75 -26.55 16.85 -26.9 11.55
+ -29.65 6.95 -31.05 -0.9 -33.4 -10.65 -31.3 -13.45 -32.45 -15.75 -29.7L-15.85 -29.6 -15.95 -29.4Q-18.45 -26.95 -24.5 -24.45 -28.7 -22.45 -32.35 -21.45 -37.15 -20.2 -38.25 -20.85L-38.4 -20.95Q-39.2 -21.65 -36 -23.45 -32.65 -25.4 -24 -31.85M4.5
+ -52.75 -8.6 -52.35Q0.15 -48.15 4.5 -52.75">
+            <fill>
+              <SolidColor color="#986E3E"/>
+            </fill>
+          </Path>
+          <Path data="M20.25 -32.35 20.6 -32.4 20.65 -32.05 20.25 -32.35">
+            <fill>
+              <SolidColor color="#4F3720"/>
+            </fill>
+          </Path>
+          <Path data="M15.7 -40.4 10.05 -42.15Q14.8 -42.95 12.5 -49.25 10.9 -53.6 7.15 -55.3 14.1 -56.2 17.9 -40.8L18.2 -39.35 15.7 -40.4M16.85 -26.9Q24.75 -26.55 15.25 -34.3L20.25 -32.35 20.65 -32.05Q30.1 -25.5 35.25 -23.3 40.45 -21.05 37.6 -20.85 33.8 -20.4 29
+ -21.65L25.05 -23Q21.6 -24.3 17.8 -26.4L16.85 -26.9M4.5 -52.75Q0.15 -48.15 -8.6 -52.35L4.5 -52.75">
+            <fill>
+              <SolidColor color="#7E5834"/>
+            </fill>
+          </Path>
+          <Path data="M20.25 -32.35 15.25 -34.3Q11.65 -35.6 8.1 -36.3 17.35 -34.85 15.7 -40.4L18.2 -39.35Q19.65 -38.85 19.85 -37.55L20.6 -32.4 20.25 -32.35">
+            <fill>
+              <SolidColor color="#24180F"/>
+            </fill>
+          </Path>
+          <Path data="M3.6 -23.8Q3.25 -20.25 0.65 -18.25 -3.65 -14.95 -4.45 -19.85 -5.85 -20.7 -6.5 -22.45L-3.4 -22.5Q-2.25 -18.85 0.35 -23.35 2 -27.85 -0.15 -29.15 -6.2 -29.9 -7 -28.35 -8.9 -30.6 -10.65 -31.3 -0.9 -33.4 6.95 -31.05 6.15 -25.55 2.8 -30.35 3.9 -26.6
+ 3.6 -23.8M-18 -22.45Q-20.65 -20.35 -25.1 -19.45L-25 -20.9 -24.5 -24.45Q-18.45 -26.95 -15.95 -29.4L-17.05 -27.9Q-18.6 -25.2 -18 -22.45M-18.95 -14.35Q-16.25 -13.05 -16.95 -19.9 -16.05 -18.4 -14.55 -16.9 -15.2 -14.3 -15.9 -13.1 -14.75 -7.7 -12
+ -4.55 -17.1 -1.9 -20 -9.8L-20.35 -9.3Q-21.5 -7.85 -23.4 -9.8L-24.4 -12.55Q-21.35 -9.15 -21 -13.85 -19.05 -12.6 -20 -9.8 -15.1 -4.5 -17.2 -12.15 -18.05 -12.3 -18.95 -14.35M-15.9 -13.1Q-16.5 -12.05 -17.2 -12.15 -16.5 -12.05 -15.9 -13.1">
+            <fill>
+              <SolidColor color="#563310"/>
+            </fill>
+          </Path>
+          <Path data="M25.05 -23Q26.8 -19.15 26.6 -16.9 26.3 -14.15 23.05 -13.75 14.6 0.45 -1.45 0L-5 -0.4Q10.55 -0.85 18.35 -18 12.8 -21.45 3.6 -23.8 3.9 -26.6 2.8 -30.35 6.15 -25.55 6.95 -31.05 11.55 -29.65 16.85 -26.9L17.8 -26.4Q21.6 -24.3 25.05 -23M-15.7 -25.85
+Q-13.25 -29.7 -9.2 -23.85 -11.25 -23.45 -12.95 -19.5 -16.75 -22.5 -15.7 -25.85">
+            <fill>
+              <SolidColor color="#E8B686"/>
+            </fill>
+          </Path>
+          <Path data="M8.1 -36.3Q-8.5 -39.8 -24 -31.85L-23.3 -36.95Q-23.2 -38.7 -21.5 -39.05 -4.7 -45.7 10.05 -42.15L15.7 -40.4Q17.35 -34.85 8.1 -36.3">
+            <fill>
+              <SolidColor color="#2B1E11"/>
+            </fill>
+          </Path>
+          <Path data="M-7 -28.35Q-7.35 -24.7 -6.5 -22.45 -5.85 -20.7 -4.45 -19.85 -3.65 -14.95 0.65 -18.25 3.25 -20.25 3.6 -23.8 12.8 -21.45 18.35 -18 10.55 -0.85 -5 -0.4 -9.3 -1.4 -12 -4.55 -14.75 -7.7 -15.9 -13.1 -15.2 -14.3 -14.55 -16.9 -16.05 -18.4 -16.95 -19.9
+L-18 -22.45Q-18.6 -25.2 -17.05 -27.9L-15.95 -29.4 -15.85 -29.6 -15.75 -29.7Q-13.45 -32.45 -10.65 -31.3 -8.9 -30.6 -7 -28.35M-9.2 -23.85Q-13.25 -29.7 -15.7 -25.85 -16.75 -22.5 -12.95 -19.5 -11.25 -23.45 -9.2 -23.85">
+            <fill>
+              <SolidColor color="#F0D0B0"/>
+            </fill>
+          </Path>
+          <Path data="M-6.5 -22.45Q-7.35 -24.7 -7 -28.35 -6.2 -29.9 -0.15 -29.15 2 -27.85 0.35 -23.35 -2.25 -18.85 -3.4 -22.5L-6.5 -22.45M-25.1 -19.45Q-20.65 -20.35 -18 -22.45L-16.95 -19.9Q-16.25 -13.05 -18.95 -14.35 -18.05 -12.3 -17.2 -12.15 -15.1 -4.5 -20 -9.8
+ -19.05 -12.6 -21 -13.85 -21.35 -9.15 -24.4 -12.55 -25.25 -15.65 -25.1 -19.45">
+            <fill>
+              <SolidColor color="#6B4014"/>
+            </fill>
+          </Path>
+          <Path data="M-38.4 -20.95 -38.25 -20.85Q-37.15 -20.2 -32.35 -21.45 -28.7 -22.45 -24.5 -24.45L-25 -20.9Q-35.9 -17.4 -38.3 -20.8L-38.4 -20.95">
+            <fill>
+              <SolidColor color="#66482B"/>
+            </fill>
+          </Path>
+          <Path data="M7.15 -55.3 6.2 -55.1Q-1.6 -52.9 -10.05 -54.25 -18.15 -55.55 -20.95 -41.9L-21.5 -39.05M20.25 -32.35 20.65 -32.05M7.15 -55.3Q14.1 -56.2 17.9 -40.8L18.2 -39.35M6.95 -31.05Q-0.9 -33.4 -10.65 -31.3M16.85 -26.9 17.8 -26.4Q21.6 -24.3 25.05 -23L29
+ -21.65Q33.8 -20.4 37.6 -20.85 40.45 -21.05 35.25 -23.3 30.1 -25.5 20.65 -32.05M6.95 -31.05Q11.55 -29.65 16.85 -26.9M-15.95 -29.4 -15.85 -29.6 -15.75 -29.7M-25 -20.9Q-35.9 -17.4 -38.3 -20.8L-38.4 -20.95Q-39.2 -21.65 -36 -23.45 -32.65 -25.4 -24
+ -31.85M-38.4 -20.95 -38.25 -20.85Q-37.15 -20.2 -32.35 -21.45 -28.7 -22.45 -24.5 -24.45 -18.45 -26.95 -15.95 -29.4">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#533A24"/>
+            </stroke>
+          </Path>
+          <Path data="M20.65 -32.05 20.6 -32.4">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#0066CC"/>
+            </stroke>
+          </Path>
+          <Path data="M-21.5 -39.05Q-4.7 -45.7 10.05 -42.15L15.7 -40.4M18.2 -39.35Q19.65 -38.85 19.85 -37.55L20.6 -32.4M18.2 -39.35 15.7 -40.4M8.1 -36.3Q11.65 -35.6 15.25 -34.3L20.25 -32.35M-24 -31.85 -23.3 -36.95Q-23.2 -38.7 -21.5 -39.05M8.1 -36.3Q-8.5 -39.8 -24
+ -31.85">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#18100A"/>
+            </stroke>
+          </Path>
+          <Path data="M3.6 -23.8Q3.9 -26.6 2.8 -30.35 6.15 -25.55 6.95 -31.05M-6.5 -22.45Q-5.85 -20.7 -4.45 -19.85 -3.65 -14.95 0.65 -18.25 3.25 -20.25 3.6 -23.8M-14.55 -16.9Q-15.2 -14.3 -15.9 -13.1 -16.5 -12.05 -17.2 -12.15 -18.05 -12.3 -18.95 -14.35M-25.1 -19.45
+ -25 -20.9M-24.4 -12.55Q-25.25 -15.65 -25.1 -19.45M-24.5 -24.45 -25 -20.9M-12 -4.55Q-17.1 -1.9 -20 -9.8L-20.35 -9.3Q-21.5 -7.85 -23.4 -9.8L-24.4 -12.55M-7 -28.35Q-7.35 -24.7 -6.5 -22.45">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#47290E"/>
+            </stroke>
+          </Path>
+          <Path data="M-10.65 -31.3Q-8.9 -30.6 -7 -28.35M-5 -0.4 -1.45 0Q14.6 0.45 23.05 -13.75 26.3 -14.15 26.6 -16.9 26.8 -19.15 25.05 -23M-15.75 -29.7Q-13.45 -32.45 -10.65 -31.3M-15.95 -29.4 -17.05 -27.9Q-18.6 -25.2 -18 -22.45L-16.95 -19.9Q-16.05 -18.4 -14.55
+ -16.9M-15.9 -13.1Q-14.75 -7.7 -12 -4.55 -9.3 -1.4 -5 -0.4M-9.2 -23.85Q-13.25 -29.7 -15.7 -25.85">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_52" flm:originalName="Graphic/shape 52" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M-13.7 11.2 -13.95 11 -13.65 11.1 -13.7 11.2M-8.2 9.25 -8.25 9.3 -8.25 9.25">
+            <fill>
+              <SolidColor color="#015454"/>
+            </fill>
+          </Path>
+          <Path data="M-15.8 8.5Q-16.55 6.4 -14.35 4.3 -7.5 -2.1 -0.4 1.05 3.9 2.9 4.05 7L2.6 5.9 1.95 5.85Q0 3.8 -2.8 7.9 -5.1 11.3 -8.2 9.25 -5.7 7.65 -6.75 6.4 -6.85 6.05 -7.1 5.75 -8.2 4.5 -9.9 4.45 -11.65 4.35 -15.8 8.5M-13.9 15.55Q-15.75 13.55 -15.45 9.65 -15.2
+ 10.95 -14.95 10.25L-13.95 11 -13.7 11.2Q-6.85 16.8 -1.85 11.8 3.75 6.15 1.4 12.15 -0.95 18.1 -5.35 18.15 -9.8 18.2 -13.9 15.55M-9.65 8.6 -12.7 7.5Q-11.05 6.05 -10.35 6 -9.5 5.95 -8.8 6.65 -8.35 7.15 -9.65 8.6">
+            <fill>
+              <SolidColor color="#FF9900"/>
+            </fill>
+          </Path>
+          <Path data="M-8.25 9.25 -8.25 9.3 -8.2 9.25Q-5.1 11.3 -2.8 7.9 0 3.8 1.95 5.85 0.5 6.2 -2.65 10.2 -6.25 14.65 -12.5 11.55 -6.25 14.65 -2.65 10.2 0.5 6.2 1.95 5.85L2.6 5.9 4.05 7Q4.1 9.7 2.4 13.35 -1.95 22.5 -9.55 18.65 -12.45 17.15 -13.9 15.55 -9.8 18.2
+ -5.35 18.15 -0.95 18.1 1.4 12.15 3.75 6.15 -1.85 11.8 -6.85 16.8 -13.7 11.2L-13.65 11.1 -12.5 11.55 -11.85 11.55 -13.65 11.1 -13.95 11 -14.95 10.25 -15.35 9.7 -15.45 9.65 -15.85 8.7 -15.85 8.5 -15.8 8.5Q-11.65 4.35 -9.9 4.45 -8.2 4.5 -7.1 5.75
+ -6.85 6.05 -6.75 6.4 -6.55 7.5 -8.05 9.05L-8.2 9.25M-12.7 7.5 -9.65 8.6 -11.15 10.15Q-13.25 9.7 -14.1 8.7L-12.7 7.5 -14.1 8.7Q-13.25 9.7 -11.15 10.15L-9.65 8.6Q-8.35 7.15 -8.8 6.65 -9.5 5.95 -10.35 6 -11.05 6.05 -12.7 7.5M-11.85 11.55 -10.45
+ 11.6 -8.25 9.3 -10.45 11.6 -11.85 11.55">
+            <fill>
+              <SolidColor color="#FF6600"/>
+            </fill>
+          </Path>
+          <Path data="M2.6 5.9 1.95 5.85Q0.5 6.2 -2.65 10.2 -6.25 14.65 -12.5 11.55M-13.9 15.55Q-12.45 17.15 -9.55 18.65 -1.95 22.5 2.4 13.35 4.1 9.7 4.05 7M-15.8 8.5Q-11.65 4.35 -9.9 4.45 -8.2 4.5 -7.1 5.75 -6.85 6.05 -6.75 6.4M-8.25 9.3 -8.2 9.25 -8.05 9.05Q-6.55
+ 7.5 -6.75 6.4M-12.7 7.5Q-11.05 6.05 -10.35 6 -9.5 5.95 -8.8 6.65 -8.35 7.15 -9.65 8.6L-11.15 10.15Q-13.25 9.7 -14.1 8.7L-12.7 7.5M-15.85 8.5 -15.8 8.5Q-16.55 6.4 -14.35 4.3 -7.5 -2.1 -0.4 1.05 3.9 2.9 4.05 7M-15.85 8.7 -15.45 9.65 -15.35 9.7
+ -14.95 10.25 -13.95 11 -13.65 11.1 -11.85 11.55 -10.45 11.6 -8.25 9.3M-15.45 9.65Q-15.75 13.55 -13.9 15.55">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#FF3300"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_64" flm:originalName="Graphic/shape 64" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M-9.55 -4.8Q-6.8 -6.1 -1.4 0.75 0.55 -2.65 3.45 -2.45L3.55 -2.15 3.65 -1.8Q3.8 -0.95 3.3 0.9 -9.05 7.15 -12.2 4.2 -12.25 -0.6 -9.55 -4.8M9.05 -5.35Q9.9 -7.35 11 -6.75L9.35 -4.75 9.05 -5.35M1.5 5.85 -1 11.2 -1.55 12.25Q-10 17.55 -11.75 8.55L-11.95
+ 7.3Q-7.85 10.7 1.5 5.85">
+            <fill>
+              <SolidColor color="#55322E"/>
+            </fill>
+          </Path>
+          <Path data="M3.3 0.9Q3.8 -0.95 3.65 -1.8 6.6 -4.2 7.85 -2.7 6.15 -0.9 3.3 0.9M0.55 11.5 -1 11.2 1.5 5.85 5.95 3.1Q4.8 9.65 0.55 11.5">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+          <Path data="M9.05 -5.35 9.35 -4.75 8 -2.9 7.85 -2.7Q6.6 -4.2 3.65 -1.8L3.55 -2.15 3.45 -2.45 2.5 -4.45 2.2 -4.7Q-4.95 -9.6 0 -10.3 4.95 -11 9.05 -5.35M5.95 3.1 6.65 2.5 10.2 -1.35Q10.55 3.55 7.15 10.05 3 11.6 0.55 11.5 4.8 9.65 5.95 3.1">
+            <fill>
+              <SolidColor color="#CCCCCC"/>
+            </fill>
+          </Path>
+          <Path data="M3.45 -2.45Q0.55 -2.65 -1.4 0.75 -6.8 -6.1 -9.55 -4.8L-7.9 -7Q-4.15 -5.75 -1.35 -1.55 0.5 -5.6 2.2 -4.7 0.5 -5.6 -1.35 -1.55 -4.15 -5.75 -7.9 -7L-8.2 -7.1Q-12.15 -8.3 -7.55 -11.95 -1.45 -16.15 7.5 -12.25 11.3 -10.5 12.25 -5.35L11.1 -6.65 11
+ -6.75Q9.9 -7.35 9.05 -5.35 4.95 -11 0 -10.3 -4.95 -9.6 2.2 -4.7L2.5 -4.45 3.45 -2.45M11.8 -3.65Q12.35 0.65 10.65 4.75 8.35 10.3 6.35 11.45L7.15 10.05Q10.55 3.55 10.2 -1.35L11.8 -3.65">
+            <fill>
+              <SolidColor color="#482926"/>
+            </fill>
+          </Path>
+          <Path data="M3.3 0.9Q6.15 -0.9 7.85 -2.7L8 -2.9Q8.9 -0.6 6.65 2.5L5.95 3.1 1.5 5.85Q-7.85 10.7 -11.95 7.3L-12.2 4.2Q-9.05 7.15 3.3 0.9">
+            <fill>
+              <SolidColor color="#FF9900"/>
+            </fill>
+          </Path>
+          <Path data="M6.65 2.5Q8.9 -0.6 8 -2.9L9.35 -4.75 11 -6.75 11.1 -6.65 11.8 -3.65 10.2 -1.35 6.65 2.5">
+            <fill>
+              <SolidColor color="#FF6600"/>
+            </fill>
+          </Path>
+          <Path data="M9.05 -5.35Q4.95 -11 0 -10.3 -4.95 -9.6 2.2 -4.7L2.5 -4.45 3.45 -2.45 3.55 -2.15 3.65 -1.8Q3.8 -0.95 3.3 0.9M9.35 -4.75 9.05 -5.35Q9.9 -7.35 11 -6.75M11.1 -6.65 12.25 -5.35Q11.3 -10.5 7.5 -12.25 -1.45 -16.15 -7.55 -11.95 -12.15 -8.3 -8.2 -7.1
+L-7.9 -7Q-4.15 -5.75 -1.35 -1.55 0.5 -5.6 2.2 -4.7M7.15 10.05Q10.55 3.55 10.2 -1.35M1.5 5.85 -1 11.2 -1.55 12.25Q-10 17.55 -11.75 8.55L-11.95 7.3M11.8 -3.65Q12.35 0.65 10.65 4.75 8.35 10.3 6.35 11.45L7.15 10.05M-9.55 -4.8 -7.9 -7M-12.2 4.2Q-12.25
+ -0.6 -9.55 -4.8">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#2D1817"/>
+            </stroke>
+          </Path>
+          <Path data="M0.55 11.5Q3 11.6 7.15 10.05M-1 11.2 0.55 11.5">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#CCCCCC"/>
+            </stroke>
+          </Path>
+          <Path data="M7.85 -2.7 8 -2.9 9.35 -4.75M10.2 -1.35 11.8 -3.65 11.1 -6.65 11 -6.75 9.35 -4.75M10.2 -1.35 6.65 2.5 5.95 3.1 1.5 5.85M3.3 0.9Q6.15 -0.9 7.85 -2.7M-11.95 7.3 -12.2 4.2M-11.95 7.3Q-7.85 10.7 1.5 5.85M3.3 0.9Q-9.05 7.15 -12.2 4.2">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#FF3300"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_48" flm:originalName="Graphic/shape 48" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M-1.6 13.4 4.7 12.55 -1.6 13.4Q-3.6 9.9 -2.95 1.8 -1.7 0.65 -0.05 0.1 3.3 1.7 2.45 4.9L2.5 5.1Q3.1 10.15 4.7 12.55 6.7 11.95 6.4 14.9L-0.45 16.05Q-2.4 15.1 -1.8 13.4L-1.6 13.4">
+            <fill>
+              <SolidColor color="#714B27"/>
+            </fill>
+          </Path>
+          <Path data="M-2.95 1.8Q-3.6 9.9 -1.6 13.4L-1.8 13.4Q-3.95 13.4 -5.2 12.8 -3.95 13.4 -1.8 13.4 -2.4 15.1 -0.45 16.05 -4.15 16.3 -5.4 15.15L-5.55 15Q-6.2 13.5 -5.2 12.8 -6.3 8.4 -4.7 3.95 -3.95 2.7 -2.95 1.8">
+            <fill>
+              <SolidColor color="#5F3F21"/>
+            </fill>
+          </Path>
+          <Path data="M-0.05 0.1Q3.3 1.7 2.45 4.9L2.5 5.1Q3.1 10.15 4.7 12.55 6.7 11.95 6.4 14.9L-0.45 16.05Q-4.15 16.3 -5.4 15.15L-5.55 15Q-6.2 13.5 -5.2 12.8 -6.3 8.4 -4.7 3.95M-1.8 13.4Q-3.95 13.4 -5.2 12.8M-1.8 13.4 -1.6 13.4 4.7 12.55">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#583A1F"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_49" flm:originalName="Graphic/shape 49" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M11.85 10.75 7 12.1Q6.7 8.2 2.4 4.85L3.1 4Q4.6 2.2 4.95 0 7.45 2.7 9.3 5.75L9.85 6.05Q12.45 7.55 11.85 10.3L11.8 10.55 11.85 10.75">
+            <fill>
+              <SolidColor color="#714B27"/>
+            </fill>
+          </Path>
+          <Path data="M7 12.1 5.45 12.5Q2.95 6.4 0.6 5.85L2.4 4.85Q6.7 8.2 7 12.1">
+            <fill>
+              <SolidColor color="#5F3F21"/>
+            </fill>
+          </Path>
+          <Path data="M11.85 10.75 11.8 10.55 11.85 10.3Q12.45 7.55 9.85 6.05L9.3 5.75Q7.45 2.7 4.95 0M0.6 5.85Q2.95 6.4 5.45 12.5">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#583A1F"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_59" flm:originalName="Graphic/shape 59" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M-4.5 2.15Q-2.9 6.05 4.95 5.3 7.3 3.9 9.4 -1.4 10.45 -1.75 11.15 -0.75L6.5 7.4 -5.9 7.4Q-6.35 3.8 -4.9 2.65L-4.8 2.65 -4.5 2.15">
+            <fill>
+              <SolidColor color="#262626"/>
+            </fill>
+          </Path>
+          <Path data="M9.4 -1.4Q7.3 3.9 4.95 5.3 -2.9 6.05 -4.5 2.15 -1.55 -2.3 5.4 0.5 6.4 -2.6 9.2 -1.35L9.4 -1.4">
+            <fill>
+              <SolidColor color="#333333"/>
+            </fill>
+          </Path>
+          <Path data="M-4.5 2.15Q-1.55 -2.3 5.4 0.5 6.4 -2.6 9.2 -1.35L9.4 -1.4Q10.45 -1.75 11.15 -0.75L6.5 7.4 -5.9 7.4Q-6.35 3.8 -4.9 2.65L-4.8 2.65 -4.5 2.15">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#222222"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_47" flm:originalName="Graphic/shape 47" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M13.15 5.55Q-4.25 6 -4.95 2.7L-4.9 2.65 -4.8 2.65Q-1.9 -2.45 6.95 2.35 12.4 2.55 13 5.35L13.15 5.55">
+            <fill>
+              <SolidColor color="#333333"/>
+            </fill>
+          </Path>
+          <Path data="M-4.95 2.7Q-4.25 6 13.15 5.55 13.75 6.5 13 7.4L-5.9 7.4Q-6.35 3.85 -4.95 2.7">
+            <fill>
+              <SolidColor color="#262626"/>
+            </fill>
+          </Path>
+          <Path data="M13.15 5.55Q13.75 6.5 13 7.4L-5.9 7.4Q-6.35 3.85 -4.95 2.7L-4.9 2.65 -4.8 2.65Q-1.9 -2.45 6.95 2.35 12.4 2.55 13 5.35L13.15 5.55">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#222222"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_85" flm:originalName="Graphic/shape 85" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M8.1 16.8Q9.75 17.55 11.45 18.7 11.25 21.55 10.45 22.4L9.85 23.1 8.4 23 6.15 22.95 5.15 22.8 3.9 22.95 2.1 24Q-0.05 25.6 -2.9 24.35 -5.3 22.4 -5.15 19.15 1.05 14.1 8.1 16.8">
+            <fill>
+              <LinearGradient x="-5.15" y="20.35" scaleX="16.6">
+                <GradientEntry ratio="0" color="#714B27"/>
+                <GradientEntry ratio="1" color="#432D17"/>
+              </LinearGradient>
+            </fill>
+          </Path>
+          <Path data="M10.45 22.4 9.85 23.1 8.4 23 6.15 22.95 5.15 22.8 3.9 22.95 2.1 24Q-0.05 25.6 -2.9 24.35 -5.3 22.4 -5.15 19.15 1.05 14.1 8.1 16.8">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#583A1F"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_42" flm:originalName="Graphic/shape 42" pd:symbolType="1">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M9.6 -1.65Q8.7 -2.75 5.55 -1.3 8.7 -2.75 9.6 -1.65 8.9 3.1 6.05 2.7L6 2.7Q5.8 3.4 5.9 3.9 1 5.45 0.4 2L1.25 0Q3.7 -2.55 6.65 -3.4 9.55 -4.3 11.4 -2.65 13.2 -1.05 13 0.5 14.5 2.05 12.85 2.95 11.7 4.15 9.65 3.75L9.95 3.1 10.1 2.4 10.15 2.3 10.35
+ 0.65Q10.45 -0.5 9.6 -1.65M13 0.5Q12.15 2.25 10.15 2.3 12.15 2.25 13 0.5">
+            <fill>
+              <SolidColor color="#F0D0B0"/>
+            </fill>
+          </Path>
+          <Path data="M9.65 3.75 9.25 4.35 8.1 5.2 7.9 5.2Q9.25 6.2 11.55 5.9 9.25 6.2 7.9 5.2L8.1 5.2 9.25 4.35 9.65 3.75Q11.7 4.15 12.85 2.95 14 5.15 11.55 5.9 10.55 8.55 8.1 7.5L7.3 6.95 4.3 6.85Q1.75 7.5 0.15 4.6 -0.2 3.7 0.4 2 1 5.45 5.9 3.9 5.8 3.4 6 2.7L6.05
+ 2.7Q8.9 3.1 9.6 -1.65 10.45 -0.5 10.35 0.65L10.15 2.3 10.1 2.4 9.95 3.1 9.65 3.75M7.3 6.95Q6.15 5.95 7.55 5.15 6.1 4.95 5.9 3.9 6.1 4.95 7.55 5.15 6.15 5.95 7.3 6.95M7.9 5.2 7.6 5.15 7.55 5.15 7.6 5.15 7.9 5.2">
+            <fill>
+              <SolidColor color="#E8B686"/>
+            </fill>
+          </Path>
+          <Path data="M13 0.5Q13.2 -1.05 11.4 -2.65 9.55 -4.3 6.65 -3.4 3.7 -2.55 1.25 0L0.4 2M9.6 -1.65Q8.7 -2.75 5.55 -1.3M11.55 5.9Q14 5.15 12.85 2.95 11.7 4.15 9.65 3.75L9.25 4.35 8.1 5.2 7.9 5.2Q9.25 6.2 11.55 5.9 10.55 8.55 8.1 7.5L7.3 6.95 4.3 6.85Q1.75 7.5
+ 0.15 4.6 -0.2 3.7 0.4 2M12.85 2.95Q14.5 2.05 13 0.5 12.15 2.25 10.15 2.3L10.1 2.4 9.95 3.1 9.65 3.75M9.6 -1.65Q10.45 -0.5 10.35 0.65L10.15 2.3M7.3 6.95Q6.15 5.95 7.55 5.15 6.1 4.95 5.9 3.9M7.9 5.2 7.6 5.15 7.55 5.15">
+            <stroke>
+              <SolidColorStroke caps="none" joints="miter" color="#DF9953"/>
+            </stroke>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_46" flm:originalName="MovieClip/sprite 46">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Graphic_shape_45/>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_44" flm:originalName="MovieClip/sprite 44">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Graphic_shape_43/>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_53" flm:originalName="MovieClip/sprite 53">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Graphic_shape_52/>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_86" flm:originalName="MovieClip/sprite 86">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Graphic_shape_42 rotation="314.95325" scaleX="1.0000011" scaleY="0.99837318" x="18.45" y="6.85">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </Graphic_shape_42>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 2">
+          <MovieClip_sprite_44 rotation="165.08059" scaleX="-0.99917999" scaleY="0.9991738" x="13.25" y="19.25">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </MovieClip_sprite_44>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 4">
+          <MovieClip_sprite_46 rotation="269.99956" scaleX="-1" x="8.75" y="7">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </MovieClip_sprite_46>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 6">
+          <Graphic_shape_47 rotation="14.918424" scaleX="0.99922816" scaleY="0.99919549" x="15.15" y="39.95">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </Graphic_shape_47>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 7">
+          <Graphic_shape_48 rotation="14.918877" scaleX="0.99917999" scaleY="0.99918465" x="19.35" y="26.85">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </Graphic_shape_48>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 8">
+          <Graphic_shape_49 rotation="330.04668" scaleX="0.99862013" scaleY="0.99861697" x="4.85" y="24.9">
+            <transform>
+              <Transform>
+                <colorTransform>
+                  <ColorTransform redMultiplier="0.6015625" blueMultiplier="0.6015625" greenMultiplier="0.6015625"/>
+                </colorTransform>
+              </Transform>
+            </transform>
+          </Graphic_shape_49>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 9">
+          <Path data="M10.4 26.15Q9.1 28.95 8.55 29.35 8 29.7 4.7 30.55 1.35 31.35 -0.1 30.55 -2.45 28.6 -2.35 25.3 3.9 20.3 10.9 23.05 11.7 23.35 10.4 26.15">
+            <fill>
+              <LinearGradient x="2.3375" y="27.625" scaleX="4.1645078" rotation="330.46109">
+                <GradientEntry ratio="0" color="#714B27"/>
+                <GradientEntry ratio="1" color="#432D17"/>
+              </LinearGradient>
+            </fill>
+          </Path>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 10">
+          <Graphic_shape_59 rotation="60.046083" scaleX="0.99861697" scaleY="0.99861449" x="-13.1" y="43.1"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 11">
+          <Graphic_shape_49 rotation="84.476959" scaleX="0.99817936" scaleY="0.99814899" x="4.2" y="25.4"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 12">
+          <Graphic_shape_48 rotation="59.952851" scaleX="0.99860933" scaleY="0.99857528" x="-1" y="34.3"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 13">
+          <Graphic_shape_64 rotation="345.17387" scaleX="0.99917771" scaleY="0.99917771" x="1.55" y="12.6"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 14">
+          <MovieClip_sprite_53 x="-9.2" y="15.4"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 16">
+          <Graphic_shape_54 x="-2" y="3.7"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 17">
+          <Graphic_shape_82 x="-2" y="3.7"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 18">
+          <Graphic_shape_56 rotation="235.63781" scaleX="-0.99787907" scaleY="0.99790427" x="-12.45" y="22.95"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 19">
+          <MovieClip_sprite_44 rotation="280.51607" scaleX="-0.99881703" scaleY="0.99883203" x="-17" y="10.15"/>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 21">
+          <MovieClip_sprite_46 rotation="25.54478" scaleX="-0.99814546" scaleY="0.99812511" x="-4.1" y="11.45"/>
+        </Group>
+      </Group>
+    </Definition>
+  </Library>
+  <Group d:type="layer" d:userLabel="Selected Items">
+    <MovieClip_sprite_86 x="166" y="221.95" d:userLabel="jump_mc"/>
+  </Group>
+  <Private/>
+</Graphic>

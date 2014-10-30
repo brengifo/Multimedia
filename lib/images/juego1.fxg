@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="492" viewWidth="800" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library>
+    <Definition name="Graphic_shape_62" flm:originalName="Graphic/shape 62" pd:symbolType="1" xmlns:pd="http://ns.adobe.com/xfl/2008/pd">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M5.4 -10.75Q2.75 -10.75 0.75 -8.85 -1.1 -6.9 -1.1 -4.25 -1.1 -1.55 0.75 0.3 2.75 2.25 5.4 2.25 8.05 2.25 9.95 0.3 11.9 -1.55 11.9 -4.25 11.9 -6.9 9.95 -8.85 8.05 -10.75 5.4 -10.75M15.15 -0.15 14.9 -0.15 15.15 -0.25 14.9 -0.15 15.15 0.5 14.3
+ 5.2 14 5.4 14.25 5.4Q13.1 8.3 10.7 10.7 6.3 15.15 0 15.15 -6.3 15.15 -10.75 10.7 -13.7 7.75 -14.65 3.95L-25 10.6 -25 -10.55 -14.65 -3.9Q-13.7 -7.75 -10.75 -10.75 -6.3 -15.15 0 -15.15 6.3 -15.15 10.7 -10.75 13 -8.45 14.15 -5.65L14.1 -5.65 14.75
+ -3.65 15.15 -0.25 15.15 -0.15">
+            <fill>
+              <SolidColor color="#263748"/>
+            </fill>
+          </Path>
+          <Path data="M14.25 5.4 14 5.4 14.3 5.2 15.15 0.5 14.9 -0.15 24.1 5.4 14.25 5.4M14.15 -5.65 24.3 -4.65 15.15 -0.25 14.75 -3.65 14.1 -5.65 14.15 -5.65">
+            <fill>
+              <SolidColor color="#FFFF66"/>
+            </fill>
+          </Path>
+          <Path data="M14.9 -0.15 15.15 -0.25M14.1 -5.65 14.15 -5.65 24.3 -4.65 15.15 -0.25M14.25 5.4 14 5.4M15.15 -0.15 14.9 -0.15 24.1 5.4 14.25 5.4">
+            <stroke>
+              <SolidColorStroke weight="2" color="#263748"/>
+            </stroke>
+          </Path>
+        </Group>
+        <Group d:type="layer" d:userLabel="Layer 2">
+          <Path data="M9.95 -8.85Q11.9 -6.9 11.9 -4.25 11.9 -1.55 9.95 0.3 8.05 2.25 5.4 2.25 2.75 2.25 0.75 0.3 -1.1 -1.55 -1.1 -4.25 -1.1 -6.9 0.75 -8.85 2.75 -10.75 5.4 -10.75 8.05 -10.75 9.95 -8.85M4.75 -4.7 4.7 -4.4Q4.7 -3.45 5.35 -2.8 6 -2.15 6.95 -2.15L7.8
+ -2.3 8.55 -2.8Q9.2 -3.45 9.2 -4.4 9.2 -5.35 8.55 -6 7.9 -6.65 6.95 -6.65 6 -6.65 5.35 -6 4.8 -5.45 4.75 -4.7">
+            <fill>
+              <SolidColor color="#FFFFFF"/>
+            </fill>
+          </Path>
+          <Path data="M4.75 -4.7Q4.8 -5.45 5.35 -6 6 -6.65 6.95 -6.65 7.9 -6.65 8.55 -6 9.2 -5.35 9.2 -4.4 9.2 -3.45 8.55 -2.8L7.8 -2.3 6.95 -2.15Q6 -2.15 5.35 -2.8 4.7 -3.45 4.7 -4.4L4.75 -4.7">
+            <fill>
+              <SolidColor color="#263748"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="Graphic_shape_64" flm:originalName="Graphic/shape 64" pd:symbolType="1" xmlns:pd="http://ns.adobe.com/xfl/2008/pd">
+      <Group pd:symbolType="1">
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Path data="M10.15 14.75 10.2 4.25 18.1 10.75 20.3 0 27.6 29.7 15.15 34.95 0 8.55 10.15 14.75">
+            <fill>
+              <SolidColor color="#263748"/>
+            </fill>
+          </Path>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_63" flm:originalName="MovieClip/sprite 63">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 2">
+          <Graphic_shape_62/>
+        </Group>
+      </Group>
+    </Definition>
+    <Definition name="MovieClip_sprite_65" flm:originalName="MovieClip/sprite 65">
+      <Group>
+        <Group d:type="layer" d:userLabel="Layer 1">
+          <Graphic_shape_64/>
+        </Group>
+      </Group>
+    </Definition>
+  </Library>
+  <Group d:type="layer" d:userLabel="Selected Items">
+    <MovieClip_sprite_63 scaleX="0.99966431" scaleY="0.99966431" x="443.9" y="-34.6"/>
+    <MovieClip_sprite_65 scaleX="0.99966431" scaleY="0.99966431" x="415.55" y="-72.45"/>
+  </Group>
+  <Private/>
+</Graphic>

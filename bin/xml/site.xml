@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site title="Interbank - Momentos Memorables: %PAGE%" menu="true">
+    <page id="index" src="index.swf" domain="current" >
+        <page id="nav" title="nav" src="nav.swf" depth="top"  domain="current" landing="true">					
+			<asset id="sfxClick" src="sound/Click.mp3"/>
+			<asset id="sfxCoin" src="sound/Coin.mp3"/>
+			<asset id="sfxSwap" src="sound/Swap.mp3"/>
+			<asset id="sfxWin" src="sound/Win.mp3"/>
+			<asset id="sfxLoose" src="sound/Loose.mp3"/>
+			<page id="home" title="Home" src="home.swf" menu="false" landing="true"  domain="current">					
+				<page id="sorpresa" title="Sopresa" src="sorpresa.swf" menu="false" depth="middle"/>
+				<page id="cuestionario" title="Cuestionario" src="cuestionario.swf" menu="false" depth="middle" />
+				<page id="fin_turno" title="fin_turno" src="fin_turno.swf" menu="false" depth="middle"  domain="current"/>
+				<page id="fin_turnos" title="fin_turnos" src="fin_turnos.swf" menu="false" depth="middle"  domain="current"/>
+				<page id="fin_game" title="fin_game" src="fin_game.swf" menu="false" depth="middle"  domain="current"/>
+			</page>
+			<page id="juego1" title="Juego 1" src="juego1.swf" menu="false" depth="middle"  />
+			<page id="juego2" title="Juego 2" src="juego2.swf" menu="false" depth="middle"  />
+			<page id="juego3" title="Juego 3" src="juego3.swf" menu="false" depth="middle"  />				
+		</page>
+    </page>
+</site>

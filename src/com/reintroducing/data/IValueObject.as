@@ -1,0 +1,1 @@
+package com.reintroducing.data{	/**	 * @author Matt Przybylski [http://www.reintroducing.com]	 * @version 1.0	 */	public interface IValueObject	{		function output():void;		//- END INTERFACE -----------------------------------------------------------------------------------------	}}
