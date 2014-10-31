@@ -92,18 +92,15 @@
 				//MonsterDebugger.trace(sURL, this);
 			}
 			
-			oData.sURL = sURL;
-			
-			
-			cargarJSON();
-			
+			oData.sURL = sURL;						
+			cargarJSON();			
 		}
 		
 		public function cargarJSON():void 
 		{
 			// cargar preguntas
 			//jsonPath = "preguntas.json";
-			//jsonPath = "https://www.internet-applabs.com/clientes/interbank/interbank-juego/public/usuarios/juego/obtener-preguntas";
+			//jsonPath = "https://www.web-applabs.com/clientes/interbank/interbank-juego/public/usuarios/juego/obtener-preguntas";
 			jsonPath =oData.sURL+"/usuarios/juego/obtener-preguntas";
 			
 			var loader:URLLoader = new URLLoader();

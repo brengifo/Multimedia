@@ -68,30 +68,85 @@ package pages.cuestionario
 				mcRespuestaChild.id = i;
 				mcRespuestaChild.name = "r"+i;
 				mcRespuestaChild.oRespuesta = aRespuestas[i];
-				respuestas_mc.addChild(mcRespuestaChild);
-				mcRespuestaChild.y = i * 46;
-				//trace("altura "+mcRespuestaChild.height);
-				//trace("antes mcRespuestaChild.y "+mcRespuestaChild.y);
-				if (i > 0) 
+				//mcRespuestaChild.addEventListener(Event.ADDED_TO_STAGE, onAddedToStageDo);
+				mcRespuestaChild.addEventListener('resize', onAddedToStageDo);
+				respuestas_mc.addChild(mcRespuestaChild);	
+				//mcRespuestaChild.y = i * 46;	
+				trace("i " +i);
+				trace("Pregunta  mcRespuestaChild.y " + mcRespuestaChild.y);
+				
+				/*if (i > 0) 
 				{
-					if (respuestas_mc.getChildByName("r" + (i - 1)).height > 36) 
+					trace("respuestas_mc.getChildByName(\"r\" + (i - 1)).height  "+respuestas_mc.getChildByName("r" + (i - 1)).height );
+					if (respuestas_mc.getChildByName("r" + (i - 1)).height == 36) 
 					{
-						mcRespuestaChild.y = (respuestas_mc.getChildByName ("r" + (i - 1)).height) + (respuestas_mc.getChildByName("r" + (i)).y)-42;
-					} else {
-						mcRespuestaChild.y = (respuestas_mc.getChildByName ("r" + (i - 1)).height) + (respuestas_mc.getChildByName("r" + (i)).y)-37;
+						mcRespuestaChild.y = (respuestas_mc.getChildByName ("r" + (i - 1)).height) + (respuestas_mc.getChildByName("r" + (i)).y) - 42;
+						trace("if 1");
+					} else if (respuestas_mc.getChildByName("r" + (i - 1)).height == 42.2)
+					{
+						mcRespuestaChild.y = (respuestas_mc.getChildByName ("r" + (i - 1)).height) + (respuestas_mc.getChildByName("r" + (i)).y) - 42;
+						trace("if 2");
+						if (MovieClip(respuestas_mc.getChildByName("r" + (i - 1))).id == 1 && mcRespuestaChild.height != 36) 
+						{
+							mcRespuestaChild.y = mcRespuestaChild.y - 4;
+						}
+					}
+					else {
+						mcRespuestaChild.y = (respuestas_mc.getChildByName ("r" + (i - 1)).height) + (respuestas_mc.getChildByName("r" + (i)).y) - 37;
+						trace("if 3");
 					}
 					
 					//trace("despues mcRespuestaChild.y "+mcRespuestaChild.y);
 					//trace("rsrs "+getChildByName("r"+(i-1)));
 				} else {
 					//mcRespuestaChild.y = i * 46;
-				}
+				}*/
 				mcRespuestaChild.addEventListener('click', onClickRespuesta);
-				TweenMax.from(mcRespuestaChild, .3, {y:0, ease:Quad.easeOut});
+				//TweenMax.from(mcRespuestaChild, .3, { y:0, ease:Quad.easeOut } );
+				//trace("mcRespuestaChild.height " + mcRespuestaChild.height);
 			}
 			
 			//initTiempo();
 			initComodin();			
+		}
+		
+		private function onAddedToStageDo(e:Event):void 
+		{
+			removeEventListener('resize', onAddedToStageDo);
+			//trace("Pregunta onAdded " + e.currentTarget.height);
+			/*if (e.currentTarget.id > 0) 
+			{
+				trace("e.currentTarget.id  "+e.currentTarget.id );
+				e.currentTarget.y = respuestas_mc.getChildByName("r" + Number((e.currentTarget.id-1))).height + 10;
+			}*/
+			//e.currentTarget.alpha = 0;
+		
+			switch (e.currentTarget.id) 
+			{
+				case 0:
+					//TweenMax.to(e.currentTarget, .5, { alpha:1, ease:Quad.easeOut } );
+				break;
+				case 1:
+					//trace("r "+respuestas_mc.getChildByName ("r0").height);
+					e.currentTarget.y = respuestas_mc.getChildByName ("r0").height + 10;
+					TweenMax.fromTo(e.currentTarget, .3, {y:0} , { y:e.currentTarget.y, ease:Quad.easeOut, overwrite:false } );
+					//TweenMax.to(e.currentTarget, .5, { alpha:1, ease:Quad.easeOut } );
+				break;
+				case 2:
+					e.currentTarget.y = respuestas_mc.getChildByName ("r1").height + respuestas_mc.getChildByName ("r1").y + 10 ;
+					TweenMax.fromTo(e.currentTarget, .3, {y: 0} ,{ y:e.currentTarget.y, ease:Quad.easeOut, overwrite:false } );
+					//TweenMax.to(e.currentTarget, .5, { alpha:1, ease:Quad.easeOut } );
+				break;
+				case 3:
+					e.currentTarget.y = respuestas_mc.getChildByName ("r2").height + respuestas_mc.getChildByName ("r2").y + 10 ;
+					TweenMax.fromTo(e.currentTarget, .3, {y:0} ,{ y:e.currentTarget.y, ease:Quad.easeOut, overwrite:false } );
+					//TweenMax.to(e.currentTarget, .5, { alpha:1, ease:Quad.easeOut } );
+				break;
+				default:
+			}
+			//
+			
+			
 		}
 		
 		/*private function initTiempo():void 
