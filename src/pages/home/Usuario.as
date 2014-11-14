@@ -45,9 +45,9 @@ package pages.home {
 			
 			if (NavPage.turnos == 1) 
 			{
-				detalle_mc.txt.htmlText = "Participa para ser el mejor, tienes <b>una oportunidad</b> para lanzar la moneda y lograr la meta. <br><b>¡Suerte!</b>"
+				detalle_mc.txt.htmlText = "Lanza la moneda para jugar, tienes <b>una oportunidad</b><br><b>¡Suerte!</b>"
 			} else {
-				detalle_mc.txt.htmlText = "Participa para ser el mejor, tienes <b>" + NavPage.turnos + " oportunidades</b> para lanzar la moneda y lograr la meta. <br><b>¡Suerte!</b>"
+				detalle_mc.txt.htmlText = "Lanza la moneda para jugar, tienes <b>" + NavPage.turnos + " oportunidades</b>. <br><b>¡Suerte!</b>"
 			}
 			
 			
